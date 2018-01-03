@@ -1,7 +1,7 @@
 {
-    "name": "mewesk/twig-excel-bundle",
+    "name": "symfony-bro/twig-excel-bundle",
     "type": "symfony-bundle",
-    "description": "This Symfony bundle provides a PhpExcel integration for Twig",
+    "description": "This Symfony bundle provides a PhpExcel integration for Twig (fork)",
     "keywords": ["excel","phpexcel","twig","symfony"],
     "homepage": "https://github.com/MewesK/TwigExcelBundle",
     "license": "MIT",
@@ -16,14 +16,14 @@
         }
     ],
     "require": {
-        "php": "5.5.9 - 7.0",
-        "symfony/framework-bundle": "~2.7|~3.0",
+        "php": "^7.0",
+        "symfony/framework-bundle": "^3.3",
         "phpoffice/phpexcel": "~1.8.1"
     },
     "require-dev": {
-        "symfony/symfony": "~2.7|~3.0",
-        "symfony/phpunit-bridge": "~3.0",
-        "sensio/framework-extra-bundle": "~3.0",
+        "symfony/symfony": "^3.3",
+        "symfony/phpunit-bridge": "^3.3",
+        "sensio/framework-extra-bundle": "^3.3",
         "mpdf/mpdf": "~6.0"
     },
     "minimum-stability": "dev",
