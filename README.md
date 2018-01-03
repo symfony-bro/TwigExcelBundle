@@ -1,6 +1,6 @@
 # TwigExcelBundle
 
-[![Teavis CI: Build Status](https://travis-ci.org/MewesK/TwigExcelBundle.png?branch=master)](https://travis-ci.org/MewesK/TwigExcelBundle)
+[![Travis CI: Build Status](https://travis-ci.org/symfony-bro/TwigExcelBundle.svg?branch=master)](https://travis-ci.org/symfony-bro/TwigExcelBundle)
 [![Scrutinizer: Code Quality](https://scrutinizer-ci.com/g/MewesK/TwigExcelBundle/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/MewesK/TwigExcelBundle/?branch=master)
 [![SensioLabsInsight: Code Quality](https://insight.sensiolabs.com/projects/283cfe57-6ee4-4102-8fff-da3f6e668e8f/mini.png)](https://insight.sensiolabs.com/projects/283cfe57-6ee4-4102-8fff-da3f6e668e8f)
 
